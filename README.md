@@ -1,11 +1,6 @@
 myPhotoGallery
 ==============
 
-<h1 class='center'>ChatRoom</h1>
-
-<img class='bumperCarInfoImg' src='img/photoGalleryImg.png' />
-
-
 <p>myPhotoGallery är ett fint galleri som du kan använda för att visa upp dina
 bilder på din hemsida. 
 
