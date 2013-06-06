@@ -33,7 +33,7 @@ en texteditor ändra i filen myPhotoGallery/index.html<br />
 rad 33 och nedåt:<p>
 
 <p><b>EXEMPEL:</b><br />
-&LT;a class="sortLink" data-keyword="winter" href="#">Winter&LT;/a></p>
+&lt;a class="sortLink" data-keyword="winter" href="#">Winter&lt;/a></p>
 
 <p>För att lägga till en kategori så kopierar du koden och lägger in den på en rad bland de andra kategorierna.
 Sedan så ändrar du på ställena där det i koden ovan står winter och Winter till namnet på kategorin du vill lägga
@@ -42,9 +42,9 @@ till. För att ta bort en kategori så tar du helt enkelt bort koden på raden d
 <p>Koden för att ändra, lägga till och ta bort fotografier och bilder hittar du från rad 48 och nedåt:
 
 <p><b>EXEMPEL:</b><br />
-  &LT;a class="thumbnail" title="Forreststream"
+  &lt;a class="thumbnail" title="Forreststream"
 	    href="photos/forreststream.jpg" data-keywords="water forrest">
-	    &LT;img src="photos/thumb_forreststream.jpg" />&LT;/a>
+	    &lt;img src="photos/thumb_forreststream.jpg" />&lt;/a>
 	    
 <p>För att ändra koden för fotografierna så gäller följande: <br />
 title="HÄR SKRIVER DU BILDTEXTEN"	    <br />
@@ -52,7 +52,7 @@ href="HÄR SKRIVER DU SÖKVÄGEN TILL BILDEN"	    <br />
 data-keywords="HÄR SKRIVER DU VILKA KATEGORIER BILDEN TILLHÖR (med mellanslag mellan varje kategori)"	    <br />
 title="HÄR SKRIVER DU BILDTEXTEN"	    <br />
 src="HÄR SKRIVER DU SÖKVÄGEN TILL BILDENS 'thumbnail'"	    </p>
-<p>För att lägga till en bild: kopiera koden för alla raderna som gäller en bild (från &LT;a till &LT;/a>)
+<p>För att lägga till en bild: kopiera koden för alla raderna som gäller en bild (från &lt;a till &lt;/a>)
 Om du vill ta bort en bild så tar du helt enkelt bort hela koden för bilden som enligt ovan.</p>
 <hr />
 
